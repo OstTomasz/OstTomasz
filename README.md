@@ -4,6 +4,9 @@ I'm a full-stack developer focused on building clean, user-friendly web applicat
 
 ---
 
+## 📄 Portfolio
+[**tomasz-ostaszewski.vercel.app**](https://tomasz-ostaszewski-portfolio.vercel.app/) ↗️
+
 ## 🔭 What I'm working on
 
 Expanding my portfolio with real-world projects that showcase my skills in modern frontend development.
